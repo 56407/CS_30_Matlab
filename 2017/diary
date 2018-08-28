@@ -1,0 +1,142 @@
+chpatonenine
+[Warning: Directory already exists.] 
+[> In <a href="matlab:matlab.internal.language.introspective.errorDocCallback('chpatonenine', 'C:\Users\Austin\Documents\MATLAB\2017\chpatonenine.m', 3)" style="font-weight:bold">chpatonenine</a> (<a href="matlab: opentoline('C:\Users\Austin\Documents\MATLAB\2017\chpatonenine.m',3,0)">line 3</a>)] 
+{Undefined function or variable 'File'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('chpatonenine', 'C:\Users\Austin\Documents\MATLAB\2017\chpatonenine.m', 4)" style="font-weight:bold">chpatonenine</a> (<a href="matlab: opentoline('C:\Users\Austin\Documents\MATLAB\2017\chpatonenine.m',4,0)">line 4</a>)
+File newFilePractice
+} 
+chpatonenine
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cd')" style="font-weight:bold">cd</a>
+Cannot CD to Users\Austin\Documents\MATLAB\2017 (Name is nonexistent or not a directory).
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('chpatonenine', 'C:\Users\Austin\Documents\MATLAB\2017\chpatonenine.m', 4)" style="font-weight:bold">chpatonenine</a> (<a href="matlab: opentoline('C:\Users\Austin\Documents\MATLAB\2017\chpatonenine.m',4,0)">line 4</a>)
+cd('Users\Austin\Documents\MATLAB\2017')
+} 
+chpatonenine
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cd')" style="font-weight:bold">cd</a>
+Cannot CD to Users\Austin\Documents\MATLAB\2017 (Name is nonexistent or not a directory).
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('chpatonenine', 'C:\Users\Austin\Documents\MATLAB\2017\chpatonenine.m', 4)" style="font-weight:bold">chpatonenine</a> (<a href="matlab: opentoline('C:\Users\Austin\Documents\MATLAB\2017\chpatonenine.m',4,0)">line 4</a>)
+cd('Users\Austin\Documents\MATLAB\2017')
+} 
+chpatonenine
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cd')" style="font-weight:bold">cd</a>
+Cannot CD to Users\Austin\Documents\MATLAB\2017 (Name is nonexistent or not a directory).
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('chpatonenine', 'C:\Users\Austin\Documents\MATLAB\2017\chpatonenine.m', 4)" style="font-weight:bold">chpatonenine</a> (<a href="matlab: opentoline('C:\Users\Austin\Documents\MATLAB\2017\chpatonenine.m',4,0)">line 4</a>)
+cd('Users\Austin\Documents\MATLAB\2017')
+} 
+chpatonenine
+
+ans =
+
+    'Users\Austin\Documents\MATLAB\2017'
+
+test2
+{Undefined function or variable 'test2'.
+} 
+ttest2
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('ttest2', 'C:\Matlab\toolbox\stats\stats\ttest2.m', 71)" style="font-weight:bold">ttest2</a> (<a href="matlab: opentoline('C:\Matlab\toolbox\stats\stats\ttest2.m',71,0)">line 71</a>)
+Requires at least two input arguments
+} 
+OneFourE
+
+res =
+
+    0.4444
+
+
+res =
+
+    0.0139
+
+
+res =
+
+    1.0385
+
+
+res =
+
+   37.6991
+
+
+ans =
+
+    'C:\Users\Austin\Documents\MATLAB\2017'
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cd')" style="font-weight:bold">cd</a>
+Cannot CD to Users\Austin\Documents\MATLAB\2017 (Name is nonexistent or not a directory).
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('OneFourE', 'C:\Users\Austin\Documents\MATLAB\2017\OneFourE.m', 47)" style="font-weight:bold">OneFourE</a> (<a href="matlab: opentoline('C:\Users\Austin\Documents\MATLAB\2017\OneFourE.m',47,0)">line 47</a>)
+cd('Users\Austin\Documents\MATLAB\2017')
+} 
+OneFourE
+
+res =
+
+    0.4444
+
+
+res =
+
+    0.0139
+
+
+res =
+
+    1.0385
+
+
+res =
+
+   37.6991
+
+
+ans =
+
+    'C:\Users\Austin\Documents\MATLAB\2017'
+
+
+ans =
+
+    'Users\Austin\Documents\MATLAB\2017'
+
+{Error using <a href="matlab:matlab.internal.language.introspective.errorDocCallback('diary')" style="font-weight:bold">diary</a>
+Too many input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('OneFourE', 'C:\Users\Austin\Documents\MATLAB\2017\OneFourE.m', 56)" style="font-weight:bold">OneFourE</a> (<a href="matlab: opentoline('C:\Users\Austin\Documents\MATLAB\2017\OneFourE.m',56,0)">line 56</a>)
+diary ChapterOneExcersises - Austin Castellino
+} 
+OneFourE
+
+res =
+
+    0.4444
+
+
+res =
+
+    0.0139
+
+
+res =
+
+    1.0385
+
+
+res =
+
+   37.6991
+
+
+ans =
+
+    'C:\Users\Austin\Documents\MATLAB\2017'
+
+
+ans =
+
+    'Users\Austin\Documents\MATLAB\2017'
+

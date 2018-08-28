@@ -1,0 +1,126 @@
+
+ Data: 
+    1.1000         0   -2.1000   -3.5000    6.0000
+         0   -3.0000   -5.6000    2.8000    4.3000
+    2.1000    0.3000    0.1000   -0.4000    1.3000
+   -1.4000    5.1000         0    1.1000   -3.0000
+
+
+     Show the max values of the array: 
+
+a =
+
+    2.1000    5.1000    0.1000    2.8000    6.0000
+
+
+b =
+
+     3     4     3     2     1
+
+c shows the position of the max: 
+
+     Show the min values of the array: 
+
+c =
+
+   -1.4000   -3.0000   -5.6000   -3.5000   -3.0000
+
+
+d =
+
+     4     2     2     1     4
+
+d shows the position of the min: 
+
+     Show the average/mean values of the array: 
+
+M_a1 =
+
+    0.4500    0.6000   -1.9000         0    2.1500
+
+    0.4500    0.6000   -1.9000         0    2.1500
+
+
+ Data: 
+    1.1000         0   -2.1000   -3.5000    6.0000
+         0   -3.0000   -5.6000    2.8000    4.3000
+    2.1000    0.3000    0.1000   -0.4000    1.3000
+   -1.4000    5.1000         0    1.1000   -3.0000
+
+
+     Show the max values of the array: 
+
+a =
+
+    2.1000    5.1000    0.1000    2.8000    6.0000
+
+
+b =
+
+     3     4     3     2     1
+
+c shows the position of the max: 
+
+     Show the min values of the array: 
+
+c =
+
+   -1.4000   -3.0000   -5.6000   -3.5000   -3.0000
+
+
+d =
+
+     4     2     2     1     4
+
+d shows the position of the min: 
+
+     Show the average/mean values of the array: 
+
+M_a1 =
+
+    0.4500    0.6000   -1.9000         0    2.1500
+
+    0.4500    0.6000   -1.9000         0    2.1500
+
+
+ Data: 
+    1.1000         0   -2.1000   -3.5000    6.0000
+         0   -3.0000   -5.6000    2.8000    4.3000
+    2.1000    0.3000    0.1000   -0.4000    1.3000
+   -1.4000    5.1000         0    1.1000   -3.0000
+
+
+     Show the max values of the array: 
+
+a =
+
+    2.1000    5.1000    0.1000    2.8000    6.0000
+
+
+b =
+
+     3     4     3     2     1
+
+c shows the position of the max: 
+
+     Show the min values of the array: 
+
+c =
+
+   -1.4000   -3.0000   -5.6000   -3.5000   -3.0000
+
+
+d =
+
+     4     2     2     1     4
+
+d shows the position of the min: 
+
+     Show the average/mean values of the array: 
+
+M_a1 =
+
+    0.4500    0.6000   -1.9000         0    2.1500
+
+    0.4500    0.6000   -1.9000         0    2.1500
+

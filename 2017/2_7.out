@@ -1,0 +1,184 @@
+    8.2000
+
+TwoSeven
+    8.2000
+
+fprintf('Sally sells %d seashells by the seashore. She made $%.2f.\n', 10, 2321.232312);
+{Index exceeds matrix dimensions.
+
+'fprintf' appears to be both a function and a variable. If this is unintentional, use 'clear fprintf' to remove the variable 'fprintf' from the workspace.
+} 
+clear fprintf
+fprintf('Sally sells %d seashells by the seashore. She made $%.2f.\n', 10, 2321.232312);
+Sally sells 10 seashells by the seashore. She made $2321.23.
+clear fprintf
+side = pi
+
+side =
+
+    3.1416
+
+v = side^3
+
+v =
+
+   31.0063
+
+fprintf_prac
+how many miles have you traveled 500
+fprintf_prac
+how many miles have you traveled12
+fprintf_prac
+how many miles have you traveled1234
+12
+
+ans =
+
+    12
+
+fprintf_prac
+how many miles have you traveled 12
+fprintf_prac
+how many miles have you traveled 12
+{Undefined function or variable 'x'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fprintf_prac', 'C:\Users\Austin\Documents\MATLAB\2017\fprintf_prac.m', 4)" style="font-weight:bold">fprintf_prac</a> (<a href="matlab: opentoline('C:\Users\Austin\Documents\MATLAB\2017\fprintf_prac.m',4,0)">line 4</a>)
+fprintf('you have traveled: \n%f feet \n', x*5280);
+} 
+fprintf_prac
+how many miles have you traveled2314
+{Undefined function or variable 'x'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('fprintf_prac', 'C:\Users\Austin\Documents\MATLAB\2017\fprintf_prac.m', 4)" style="font-weight:bold">fprintf_prac</a> (<a href="matlab: opentoline('C:\Users\Austin\Documents\MATLAB\2017\fprintf_prac.m',4,0)">line 4</a>)
+fprintf('you have traveled: \n%f feet \n', x*5280);
+} 
+    8.2000
+
+    8.2000
+
+     1
+
+TwoSeven
+    8.2000
+
+    8.2000
+
+     1
+
+   729
+
+TwoSeven
+    8.2000
+
+    8.2000
+
+     1
+
+   729
+
+        6561
+
+   729
+
+TwoSeven
+    8.2000
+
+    8.2000
+
+     1
+
+   729
+
+        6561
+
+   729
+
+    3.8000
+
+TwoSeven
+    8.2000
+
+    8.2000
+
+     1
+
+   729
+
+        6561
+
+   729
+
+     4
+
+TwoSeven
+    8.2000
+
+    8.2000
+
+     1
+
+   729
+
+        6561
+
+   729
+
+     4
+
+TwoSeven
+    8.2000
+
+    8.2000
+
+     1
+
+   729
+
+        6561
+
+   729
+
+     4
+
+{Undefined function or variable 'dis'.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('TwoSeven', 'C:\Users\Austin\Documents\MATLAB\2017\TwoSeven.m', 36)" style="font-weight:bold">TwoSeven</a> (<a href="matlab: opentoline('C:\Users\Austin\Documents\MATLAB\2017\TwoSeven.m',36,0)">line 36</a>)
+dis
+} 
+TwoSeven
+    8.2000
+
+    8.2000
+
+     1
+
+   729
+
+        6561
+
+   729
+
+     4
+
+     4
+
+TwoSeven
+    8.2000
+
+    8.2000
+
+     1
+
+   729
+
+        6561
+
+   729
+
+     4
+
+     4
+
+     3
+
+Week_3_homework
