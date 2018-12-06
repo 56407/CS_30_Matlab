@@ -1,5 +1,8 @@
 %stock price test one
+ark = 0
 
+//what P_ark?
+//whats T_ark
 P_Ark = 2.58;
 T_Ark = 18.31;
 
@@ -25,7 +28,7 @@ display(MiscArk);
 
 
 %current price of kmd, can be used in other variables
-CP = TKmd * P_Kmd;
-
-disp(CP);
+% CP = TKmd * P_Kmd;
+% 
+% disp(CP);
 
